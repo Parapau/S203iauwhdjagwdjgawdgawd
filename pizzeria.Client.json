@@ -1,0 +1,17 @@
+[{
+  "_id": {
+    "$oid": "64884184ce218f64a1b9f1da"
+  },
+  "nom": "Andrea",
+  "telefon": 94646515,
+  "NIF": "25465876465a",
+  "adreça": {
+    "$oid": "64883a34ce218f64a1b9f1b9"
+  },
+  "localitat": {
+    "$oid": "649018190156f447a5e95fb7"
+  },
+  "provincia": {
+    "$oid": "649017ed0156f447a5e95fb2"
+  }
+}]

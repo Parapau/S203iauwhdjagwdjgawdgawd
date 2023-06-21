@@ -1,0 +1,53 @@
+[{
+  "_id": {
+    "$oid": "6490243f0156f447a5e95fe6"
+  },
+  "nom": "Andrea",
+  "telefon": 94646515,
+  "fax": 546541,
+  "NIF": "25465876465a",
+  "adreça": {
+    "carrer": "Rac Baranot",
+    "numero": 24,
+    "pis": 0,
+    "porta": 6,
+    "ciutat": "Happyflowertown",
+    "cp": 4654,
+    "pais": "republica democratica popular de happyflower"
+  },
+  "correu": "patatafregida@gmail.com",
+  "data_registre": {
+    "$date": "2012-04-19T00:00:00.004Z"
+  },
+  "venedor": {
+    "$oid": "64884245ce218f64a1b9f1e0"
+  }
+},
+{
+  "_id": {
+    "$oid": "6490245d0156f447a5e95fe7"
+  },
+  "nom": "Pepa",
+  "telefon": 123123123,
+  "fax": 541231231,
+  "NIF": "5454654654t",
+  "adreça": {
+    "carrer": "Rac Baranot",
+    "numero": 24,
+    "pis": 0,
+    "porta": 6,
+    "ciutat": "Happyflowertown",
+    "cp": 4654,
+    "pais": "republica democratica popular de happyflower"
+  },
+  "correu": "patatabullida@gmail.com",
+  "data_registre": {
+    "$date": "2015-04-19T00:00:00.004Z"
+  },
+  "venedor": {
+    "$oid": "64884245ce218f64a1b9f1e0"
+  },
+  "recomanador": {
+    "$oid": "64884184ce218f64a1b9f1da"
+  }
+}]

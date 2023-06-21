@@ -1,0 +1,9 @@
+[{
+  "_id": {
+    "$oid": "649018190156f447a5e95fb7"
+  },
+  "localitat": "Manresa",
+  "provincia": {
+    "$oid": "649017ed0156f447a5e95fb2"
+  }
+}]

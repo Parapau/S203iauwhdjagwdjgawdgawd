@@ -1,0 +1,9 @@
+[{
+  "_id": {
+    "$oid": "649013280156f447a5e95fa2"
+  },
+  "nomMarca": "Afleilou",
+  "idProveïdor": {
+    "$oid": "648837d2ce218f64a1b9f1b3"
+  }
+}]
