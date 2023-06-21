@@ -5,3 +5,12 @@
   "nom": "Pepe",
   "cognom": "Viyuela"
 }]
+
+{
+  $jsonSchema: {
+    required: [
+      'nom',
+      'cognom'
+    ]
+  }
+}

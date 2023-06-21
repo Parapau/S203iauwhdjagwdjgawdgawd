@@ -7,3 +7,12 @@
     "$oid": "648837d2ce218f64a1b9f1b3"
   }
 }]
+
+{
+  $jsonSchema: {
+    required: [
+      'idProveïdor',
+      'nomMarca'
+    ]
+  }
+}

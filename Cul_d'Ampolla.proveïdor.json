@@ -16,3 +16,14 @@
     "pais": "Serena republica de Xupilandia"
   }
 }]
+
+{
+  $jsonSchema: {
+    required: [
+      'nom',
+      'adreça',
+      'telefon',
+      'NIF'
+    ]
+  }
+}

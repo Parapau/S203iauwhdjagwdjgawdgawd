@@ -22,3 +22,16 @@
   "cp": 4654,
   "pais": "republica democratica popular de happyflower"
 }]
+
+{
+  $jsonSchema: {
+    required: [
+      'carrer',
+      'ciutat',
+      'cp',
+      'pais',
+      'pis',
+      'porta'
+    ]
+  }
+}

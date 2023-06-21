@@ -51,3 +51,16 @@
     "$oid": "64884184ce218f64a1b9f1da"
   }
 }]
+
+{
+  $jsonSchema: {
+    required: [
+      'nom',
+      'adreça',
+      'telefon',
+      'correu',
+      'data_registre',
+      'venedor'
+    ]
+  }
+}
